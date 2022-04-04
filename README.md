@@ -9,3 +9,5 @@ Packages: Pandas, matplot
 
 The data is then organized into a heatmap that informs us the contributions each state gives a certain candidate. 52 is the most amount of money contributed and 1 is the least.
 ![heatmap](https://user-images.githubusercontent.com/98330114/161579531-9c15995d-043e-45f1-93ce-dab1526ef951.png)
+
+![map_below_hs](https://user-images.githubusercontent.com/98330114/161581584-e3ae0ae9-6975-45cd-aa3b-012120e19aa0.png)
